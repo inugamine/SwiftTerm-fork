@@ -2,6 +2,11 @@
 SwiftTerm
 =========
 
+> **Note — modified fork.** This is a fork of [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)
+> by Miguel de Icaza, modified to add inline IME (Japanese input method) composition rendering on the
+> CoreGraphics drawing path, created for use in the Kasten terminal app. SwiftTerm is distributed under
+> the MIT License (see [LICENSE](LICENSE)); all original copyright notices are retained.
+
 SwiftTerm is a VT100/Xterm terminal emulator library for Swift applications that can be 
 embedded into macOS, iOS applications, text-based, headless applications or other 
 custom scenarios. It has been used in several commercially available SSH clients, including 
